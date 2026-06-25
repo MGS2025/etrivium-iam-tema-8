@@ -43,14 +43,20 @@
   <rect x="170" y="18" width="360" height="58" rx="8" fill="#003d75"/>
   <text x="350" y="42" class="h">Constitución Española</text>
   <text x="350" y="62" class="h" style="font-weight:400;font-size:11px">arts. 137 y 140 (autonomía) · 142 (suficiencia financiera)</text>
-  <line x1="350" y1="76" x2="350" y2="98" stroke="#0055a0" stroke-width="1.5"/>
+  <line x1="350" y1="76" x2="350" y2="87" stroke="#0055a0" stroke-width="1.5"/>
+  <line x1="220" y1="87" x2="480" y2="87" stroke="#0055a0" stroke-width="1.5"/>
+  <line x1="220" y1="87" x2="220" y2="98" stroke="#0055a0" stroke-width="1.5"/>
+  <line x1="480" y1="87" x2="480" y2="98" stroke="#0055a0" stroke-width="1.5"/>
   <rect x="120" y="98" width="200" height="58" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
   <text x="220" y="122" class="t" style="font-weight:700">LBRL (Ley 7/1985)</text>
   <text x="220" y="142" class="s">remite a la legislación estatal</text>
   <rect x="380" y="98" width="200" height="58" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
   <text x="480" y="122" class="t" style="font-weight:700">art. 133.2 CE</text>
   <text x="480" y="142" class="s">potestad tributaria conforme a ley</text>
-  <line x1="350" y1="156" x2="350" y2="180" stroke="#0055a0" stroke-width="1.5"/>
+  <line x1="220" y1="156" x2="220" y2="168" stroke="#0055a0" stroke-width="1.5"/>
+  <line x1="480" y1="156" x2="480" y2="168" stroke="#0055a0" stroke-width="1.5"/>
+  <line x1="220" y1="168" x2="480" y2="168" stroke="#0055a0" stroke-width="1.5"/>
+  <line x1="350" y1="168" x2="350" y2="180" stroke="#0055a0" stroke-width="1.5"/>
   <rect x="180" y="180" width="340" height="60" rx="8" fill="#e8f5ee" stroke="#2d8659"/>
   <text x="350" y="205" class="t" style="font-weight:700">TRLHL · RDLeg 2/2004, de 5 de marzo</text>
   <text x="350" y="225" class="s">refunde la Ley 39/1988 · regula los recursos locales</text>
@@ -216,8 +222,8 @@
   <line x1="200" y1="150" x2="520" y2="150" stroke="#0055a0"/>
   <line x1="200" y1="150" x2="200" y2="168" stroke="#2d8659"/>
   <line x1="520" y1="150" x2="520" y2="168" stroke="#d13c3c"/>
-  <text x="200" y="164" class="d" style="fill:#2d8659">SÍ a las dos</text>
-  <text x="520" y="164" class="d" style="fill:#d13c3c">NO a alguna</text>
+  <text x="130" y="164" class="d" style="fill:#2d8659">SÍ a las dos</text>
+  <text x="590" y="164" class="d" style="fill:#d13c3c">NO a alguna</text>
   <rect x="70" y="168" width="260" height="92" rx="8" fill="#e8f5ee" stroke="#2d8659"/>
   <text x="200" y="194" class="t" style="font-weight:700;fill:#2d8659">PRECIO PÚBLICO</text>
   <text x="200" y="216" class="s">no es tributo · art. 41</text>
@@ -301,7 +307,7 @@
   <rect x="60" y="220" width="280" height="80" rx="8" fill="#fdeaea" stroke="#d13c3c"/>
   <text x="200" y="244" class="t" style="font-weight:700;fill:#d13c3c">Cuantía (art. 44)</text>
   <text x="200" y="266" class="s" style="font-weight:700">MÍNIMO: cubrir el coste</text>
-  <text x="200" y="286" class="s">excepción social → por debajo,</text>
+  <text x="200" y="286" class="s">excepción social: puede bajar (44.2)</text>
   <rect x="380" y="220" width="280" height="80" rx="8" fill="#fff5e6" stroke="#e89822"/>
   <text x="520" y="244" class="t" style="font-weight:700;fill:#b5740f">Establecimiento (art. 47)</text>
   <text x="520" y="266" class="s">lo fija el PLENO</text>
