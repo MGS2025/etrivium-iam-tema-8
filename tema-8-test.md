@@ -3,8 +3,8 @@
 > **Título**: RDLeg 2/2004 (TRLHL): Recursos de las Haciendas Locales. Ingresos de derecho público y privado. Tasas, contribuciones especiales y precios públicos. Impuestos municipales.
 > **Formato**: 150 preguntas tipo test A/B/C (formato oficial oposición) + 20 preguntas en formato pedagógico con explicación y referencia al articulado.
 > **Nivel**: C1 — Técnico Auxiliar TIC, Ayuntamiento de Madrid
-> **Versión**: 1.0 — Pendiente validación
-> **Fecha**: 2026-06-25
+> **Versión**: 1.1 — Correcciones de María (preguntas arts. 20.3/20.4)
+> **Fecha**: 2026-06-30
 > **Fuentes**: ver `tema-8-fuentes.md`
 
 ---
@@ -318,11 +318,11 @@
    - c) Sean siempre gratuitos.
    - **Respuesta: a** · *TRLHL, art. 20.1.B*
 
-49. Una tasa por prestación de servicios solo puede exigirse cuando estos:
-   - a) No sean de solicitud o recepción voluntaria, o no se presten por el sector privado.
-   - b) Sean voluntarios y además los preste el sector privado.
-   - c) Tengan carácter exclusivamente lucrativo.
-   - **Respuesta: a** · *TRLHL, art. 20.1.B*
+49. El artículo 20.3 del TRLHL enumera, a título de ejemplo, supuestos de tasa por:
+   - a) Utilización privativa o aprovechamiento especial del dominio público local (vados, terrazas, ocupación del subsuelo…).
+   - b) Prestación de servicios administrativos (licencias, basuras, cementerios…).
+   - c) Operaciones de crédito de la entidad local.
+   - **Respuesta: a** · *TRLHL, art. 20.3*
 
 50. El estacionamiento regulado de vehículos en la vía pública (zona SER) se exige normalmente mediante:
    - a) Una tasa por aprovechamiento especial del dominio público.
@@ -458,11 +458,11 @@
    - c) Cuando lo apruebe el Ministerio de Hacienda.
    - **Respuesta: a** · *TRLHL, art. 17.4*
 
-72. Respecto del principio de equivalencia en las tasas por servicios, señale lo correcto:
-   - a) El conjunto de la tasa no debe superar el coste real o previsible del servicio.
-   - b) La tasa debe ser siempre el doble del coste.
-   - c) La tasa no guarda relación alguna con el coste.
-   - **Respuesta: a** · *TRLHL, art. 24.2*
+72. La recogida de residuos, el alcantarillado, los cementerios y el otorgamiento de licencias urbanísticas figuran entre los supuestos que el TRLHL enumera para exigir tasas por:
+   - a) Prestación de servicios o realización de actividades administrativas (art. 20.4).
+   - b) Aprovechamiento especial del dominio público (art. 20.3).
+   - c) Contribuciones especiales (art. 28).
+   - **Respuesta: a** · *TRLHL, art. 20.4*
 
 73. En la determinación del coste del servicio a efectos de la tasa se computarán:
    - a) Los costes directos e indirectos, incluidos los de carácter financiero, amortización y los necesarios para garantizar el mantenimiento.

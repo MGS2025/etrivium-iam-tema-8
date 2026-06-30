@@ -4,8 +4,8 @@
 >
 > **Bloque**: Parte I — Administrativo/Jurídico
 > **Nivel**: C1 — Técnico Auxiliar TIC, Ayuntamiento de Madrid
-> **Versión**: 1.0 — Generación inicial (cifras fiscales auditadas)
-> **Fecha**: 2026-06-25
+> **Versión**: 1.1 — Correcciones de María (supuestos de tasas 20.3/20.4 + gestión ATM)
+> **Fecha**: 2026-06-30
 
 ---
 
@@ -39,6 +39,8 @@
 | Cobro de ingresos de derecho público | Prerrogativas de la Hacienda del Estado + **apremio** | Art. 2.2 |
 | Ingresos de derecho privado | Patrimonio + herencias/legados/donaciones; **no** prerrogativas | Art. 3 |
 | Cobro impagado de derecho privado | También por **procedimiento de apremio** | Art. 2.2 |
+| Tasa — supuestos de dominio público | Listado enunciativo (vados, terrazas, ocupación suelo/subsuelo/vuelo) | **Art. 20.3** |
+| Tasa — supuestos de servicios | Listado enunciativo (documentos, licencias, basuras, alcantarillado, cementerios) | **Art. 20.4** |
 | Tasa — cuantía por servicios | **No excede del coste** real o previsible (máximo) | Art. 24.2 |
 | Tasa — utilización dominio público | Valor de mercado o **utilidad** | Art. 24.1 |
 | Contribuciones especiales — base | Máximo **90 %** del coste soportado | **Art. 31** |

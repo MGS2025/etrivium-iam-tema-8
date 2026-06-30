@@ -1,8 +1,8 @@
 # Tema 8 — Checklist de Validación
 
 > **Título oficial**: RDLeg 2/2004 (TRLHL): Recursos de las Haciendas Locales. Clasificación: ingresos de derecho público y privado. Tasas, contribuciones especiales y precios públicos. Impuestos municipales: concepto y clasificación.
-> **Versión**: 1.0 — Generación inicial
-> **Fecha**: 2026-06-25
+> **Versión**: 1.1 — Correcciones de María (supuestos de tasas 20.3/20.4 + gestión ATM)
+> **Fecha**: 2026-06-30
 > **Revisoras**: María + Ana (IAM)
 
 ---

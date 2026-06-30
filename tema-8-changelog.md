@@ -4,6 +4,22 @@
 
 ---
 
+## v1.1 — 2026-06-30 — Correcciones de María (IAM)
+
+**Estado**: Revisión de María aplicada. Pendiente de validación final.
+
+### Cambios
+
+1. **§5.2 (nueva) — Supuestos concretos de tasas (arts. 20.3 y 20.4)**: a petición de María, y atendiendo a que el enunciado oficial pide *"especial referencia a las tasas"*, se añade el listado expreso del TRLHL:
+   - **Art. 20.3** — utilización privativa o aprovechamiento especial del **dominio público** (vados, terrazas, ocupación de suelo/subsuelo/vuelo, estacionamiento ORA/SER, zanjas, quioscos…).
+   - **Art. 20.4** — **servicios y actividades** administrativas (documentos, licencias urbanísticas y de apertura, extinción de incendios, cementerios, recogida de residuos, alcantarillado…).
+   - Se subraya que **ambos listados son enunciativos, no cerrados**, y se aclara la diferencia 20.3 (dominio público) vs 20.4 (servicios), que en el índice del cliente aparecía referida solo como "art. 20.3".
+2. **§10.2 (nueva) — Gestión de la Agencia Tributaria Madrid**: se amplía la sección de Madrid con una tabla de **forma de gestión**: **IBI, IVTM e IAE por padrón/matrícula** (recibo periódico) y **ICIO e IIVTNU por autoliquidación** del contribuyente. La antigua §10.2 ("relevancia para el IAM") pasa a **§10.3**.
+3. **Test**: dos preguntas reorientadas (Q49 → supuestos del art. 20.3; Q72 → supuestos del art. 20.4) para cubrir la posible pregunta de examen sobre si un servicio concreto encaja como tasa de dominio público o de servicio. El banco se mantiene en **150 preguntas**.
+4. **Versionado** actualizado en todos los `.md`, el `index.html` y el changelog.
+
+---
+
 ## v1.0 — 2026-06-25 — Generación inicial completa
 
 **Estado**: Pendiente de validación por María / Ana (IAM).

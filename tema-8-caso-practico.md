@@ -2,8 +2,8 @@
 
 > **Título oficial**: RDLeg 2/2004 (TRLHL): Recursos de las Haciendas Locales. Clasificación: ingresos de derecho público y privado. Tasas, contribuciones especiales y precios públicos. Impuestos municipales: concepto y clasificación.
 > **Nivel**: C1 — Técnico Auxiliar TIC, Ayuntamiento de Madrid
-> **Versión**: 1.0 — Pendiente validación
-> **Fecha**: 2026-06-25
+> **Versión**: 1.1 — Correcciones de María aplicadas
+> **Fecha**: 2026-06-30
 > **Formato**: 6 casos prácticos con escenario, cuestiones puntuadas (suman 10 puntos por caso), solución orientativa y criterios de evaluación.
 
 ---

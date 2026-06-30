@@ -4,8 +4,8 @@
 >
 > **Bloque**: Parte I — Administrativo/Jurídico
 > **Nivel**: C1 — Técnico Auxiliar TIC, Ayuntamiento de Madrid
-> **Versión**: 1.0 — Generación inicial
-> **Fecha**: 2026-06-25
+> **Versión**: 1.1 — Correcciones de María (supuestos de tasas 20.3/20.4 + gestión ATM)
+> **Fecha**: 2026-06-30
 
 ---
 

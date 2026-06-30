@@ -242,9 +242,9 @@ def build():
     <p class="subtitle">RDLeg 2/2004, texto refundido de la Ley Reguladora de las Haciendas Locales · Recursos · Ingresos de derecho público y privado · Tasas · Contribuciones especiales · Precios públicos · Impuestos municipales</p>
   </div>
   <div class="version-banner">
-    <span class="badge badge-v1">v1.0</span>
-    <div><strong>Generación inicial · cifras fiscales auditadas contra BOE</strong><br>
-    <small>Bloque I — Administrativo/Jurídico · C1 Técnico Auxiliar TIC · Ayuntamiento de Madrid · 2026-06-25</small></div>
+    <span class="badge badge-v1">v1.1</span>
+    <div><strong>Correcciones de María: supuestos de tasas (arts. 20.3 y 20.4) + gestión de la Agencia Tributaria Madrid</strong><br>
+    <small>Bloque I — Administrativo/Jurídico · C1 Técnico Auxiliar TIC · Ayuntamiento de Madrid · 2026-06-30</small></div>
   </div>
   <div class="card">
     <h2 style="margin-top:0">Resumen del tema</h2>

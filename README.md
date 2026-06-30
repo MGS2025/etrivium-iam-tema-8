@@ -18,7 +18,7 @@ Material de estudio para la oposición **C1 — Técnico Auxiliar TIC del Ayunta
 
 ## Estado
 
-**v1.0 — Generación inicial** (pendiente de validación por María / Ana, IAM).
+**v1.1 — Correcciones de María** (pendiente de validación final). Añadidos: supuestos concretos de tasas (arts. 20.3 dominio público / 20.4 servicios) y la gestión de la Agencia Tributaria Madrid (IBI/IVTM/IAE por padrón; ICIO/IIVTNU por autoliquidación). Diagramas D1/D5/D7 corregidos.
 
 > Notas: (1) Las **cifras fiscales** se han **auditado contra el texto consolidado del BOE** antes de redactar (IBI urbana/rústica, exención IAE, ICIO 4 %, contribuciones especiales 90 % en el art. 31 y módulos en el art. 32, IIVTNU dual post-STC 182/2021). (2) Se ha **eliminado** del título oficial la coletilla *"La Ley 39/2015 (LPACAP): recordatorio de contexto"* que arrastraba el índice del cliente, por ser ajena a las Haciendas Locales. (3) Los importes en euros del IVTM y los coeficientes del IIVTNU son **volátiles** — reverificar antes de cada convocatoria.
 

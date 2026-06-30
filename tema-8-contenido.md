@@ -4,8 +4,8 @@
 >
 > **Bloque**: Parte I — Administrativo/Jurídico
 > **Nivel**: C1 — Técnico Auxiliar TIC, Ayuntamiento de Madrid
-> **Versión**: 1.0 — Generación inicial (cifras fiscales auditadas contra BOE)
-> **Fecha**: 2026-06-25
+> **Versión**: 1.1 — Correcciones de María: listado de supuestos de tasas (arts. 20.3 y 20.4) y gestión de la Agencia Tributaria Madrid
+> **Fecha**: 2026-06-30
 > **Fuentes**: Ver `tema-8-fuentes.md` · **Diagramas**: Ver `tema-8-diagramas.md` · **Cambios**: Ver `tema-8-changelog.md`
 
 ---
@@ -169,7 +169,29 @@ El hecho imponible de la tasa tiene, pues, **dos modalidades**:
 
 > **[DATO CLAVE EXAMEN]** La clave de la **2.ª modalidad** de tasa es la **coactividad**: basta con que **falte la voluntariedad** *o* **falte la concurrencia del sector privado**. Si el servicio es voluntario **y además** lo presta también el sector privado → ya no es tasa, sino **precio público**.
 
-### 5.2 Sujeto pasivo (art. 23)
+### 5.2 Supuestos concretos: los listados de los arts. 20.3 y 20.4
+
+El TRLHL no deja el hecho imponible en abstracto: los **apartados 3 y 4 del art. 20 enumeran de forma expresa** —y con carácter **enunciativo, no cerrado** ("entre otros")— los supuestos por los que las entidades locales pueden exigir tasas. Es un listado de aparición frecuente en examen, porque permite preguntar si un servicio concreto puede o no financiarse mediante tasa.
+
+**Art. 20.3 — Utilización privativa o aprovechamiento especial del dominio público local** (letras a-u). Entre otros:
+
+- **Entradas de vehículos** a través de las aceras (**vados**) y **reservas de vía pública** para aparcamiento exclusivo.
+- Ocupación de terrenos de uso público con **mesas, sillas y terrazas** con finalidad lucrativa, puestos, barracas, quioscos y rodaje.
+- Ocupación del **suelo, subsuelo y vuelo** de la vía pública (tuberías, tendidos, cables, marquesinas, miradores).
+- **Apertura de zanjas, calicatas y calas**; sacas de arena y de otros materiales de construcción.
+- **Estacionamiento de vehículos** en zonas determinadas (zona ORA / Servicio de Estacionamiento Regulado).
+
+**Art. 20.4 — Prestación de servicios o realización de actividades administrativas** (letras a-z). Entre otros:
+
+- **Documentos** que expidan las administraciones locales a instancia de parte.
+- **Licencias urbanísticas** y **licencias de apertura** de establecimientos.
+- Servicios de **extinción de incendios**, inspección sanitaria y análisis.
+- **Cementerios** y servicios fúnebres; **recogida de residuos** (basuras); **alcantarillado** y tratamiento de aguas residuales.
+- Enseñanzas especiales, visitas a museos y monumentos, y otros servicios o actividades no voluntarios.
+
+> **[DATO CLAVE EXAMEN]** El art. **20.3** lista los aprovechamientos del **dominio público** (vados, terrazas, ocupación de suelo/subsuelo/vuelo, estacionamiento ORA); el art. **20.4** lista los **servicios y actividades** (documentos, licencias, basuras, alcantarillado, cementerios, incendios). Ambos listados son **enunciativos, no cerrados**. Pregunta típica de examen: identificar si un supuesto concreto encaja en la modalidad de **dominio público (20.3)** o de **servicio (20.4)** —o si, por ser voluntario y prestarse por el sector privado, sería en realidad un **precio público**.
+
+### 5.3 Sujeto pasivo (art. 23)
 
 > **[CITA NORMATIVA]** Son **sujetos pasivos** de las tasas, en concepto de contribuyentes, las **personas físicas y jurídicas** y las **entidades a que se refiere el art. 35.4 de la Ley General Tributaria** (herencias yacentes, comunidades de bienes y demás entidades sin personalidad jurídica) que **soliciten o resulten beneficiadas o afectadas** por los servicios o actividades, o que **disfruten, utilicen o aprovechen** el dominio público local [TRLHL, art. 23.1].
 
@@ -390,9 +412,20 @@ Dos instituciones tributarias propias destacan:
 
 > **[DATO CLAVE EXAMEN]** Régimen especial de Madrid = **Ley 22/2006 de Capitalidad**. Aporta el **Tribunal Económico-Administrativo Municipal** (reclamaciones tributarias) y la **Agencia Tributaria Madrid** (gestión integral de los tributos). Madrid es, además, **municipio de gran población** (Título X LBRL).
 
-### 10.2 Relevancia para el técnico del IAM
+### 10.2 La gestión tributaria de la Agencia Tributaria Madrid
 
-> **[EJEMPLO AYTO MADRID]** Un Técnico Auxiliar TIC del IAM da soporte a los sistemas de información que sostienen la recaudación municipal: padrones del IBI y del IVTM, gestión censal del IAE, autoliquidaciones del ICIO y del IIVTNU, y la sede electrónica de la **Agencia Tributaria Madrid**. Conocer **qué tributos gestiona** el Ayuntamiento, su **carácter (obligatorio/potestativo)** y su **órgano competente** permite entender los flujos de datos que la informática municipal soporta.
+La **Agencia Tributaria Madrid (ATM)** asume la gestión, liquidación, inspección y recaudación de los tributos municipales. Conviene distinguir, según la **forma de gestión** de cada figura, dos grandes grupos:
+
+| Forma de gestión | Tributos | Cómo funciona |
+|---|---|---|
+| **Padrón / matrícula** (gestión por la Administración) | **IBI**, **IVTM** e **IAE** | La ATM gestiona un **padrón o matrícula** anual (lista cobratoria) y emite los recibos; el contribuyente paga en el periodo voluntario sin tener que declarar cada año |
+| **Autoliquidación** (gestión iniciada por el obligado) | **ICIO** e **IIVTNU** | Es el propio contribuyente quien **declara y calcula** la cuota al producirse el hecho imponible (la obra, la transmisión), presentando la **autoliquidación** ante la ATM |
+
+> **[DATO CLAVE EXAMEN]** En Madrid (y en general): **IBI, IVTM e IAE** se gestionan por **padrón/matrícula** (recibo periódico que emite la Agencia Tributaria Madrid); **ICIO e IIVTNU** se gestionan por **autoliquidación** del contribuyente. Recuerda que en el **IBI** la gestión es además **compartida** con el Estado (el padrón se nutre del Catastro).
+
+### 10.3 Relevancia para el técnico del IAM
+
+> **[EJEMPLO AYTO MADRID]** Un Técnico Auxiliar TIC del IAM da soporte a los sistemas de información que sostienen la recaudación municipal: los **padrones del IBI, el IVTM y la matrícula del IAE**, las **autoliquidaciones del ICIO y del IIVTNU**, y la **sede electrónica** de la **Agencia Tributaria Madrid**. Conocer **qué tributos gestiona** el Ayuntamiento, su **carácter (obligatorio/potestativo)** y su **forma de gestión (padrón vs. autoliquidación)** permite entender los flujos de datos que la informática municipal soporta.
 
 > **[REFERENCIA CRUZADA]** La organización del Ayuntamiento de Madrid, sus distritos y los órganos de gobierno (Pleno, Junta de Gobierno Local) se estudian en los Temas 3 y 4; la Administración electrónica y la sede electrónica, en el bloque técnico.
 

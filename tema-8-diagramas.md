@@ -2,8 +2,8 @@
 
 > **Título oficial**: RDLeg 2/2004 (TRLHL): Recursos de las Haciendas Locales, ingresos de derecho público y privado, tasas, contribuciones especiales, precios públicos e impuestos municipales.
 >
-> **Versión**: 1.0 — generación inicial
-> **Fecha**: 2026-06-25
+> **Versión**: 1.1 — correcciones de María (conectores D1/D5/D7)
+> **Fecha**: 2026-06-30
 > **Formato**: SVG inline (zero-dependencias, escalable, imprimible)
 > **Paleta**: Ayuntamiento de Madrid #0055a0 (primario) + #d13c3c (alertas) + #2d8659 (ventajas) + #e89822 (callouts)
 
