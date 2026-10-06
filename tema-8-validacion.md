@@ -19,7 +19,7 @@
 
 - [ ] La fuente nuclear es el **TRLHL (RDLeg 2/2004)** en su versión consolidada.
 - [ ] Las cifras fiscales se han **auditado contra el BOE** antes de redactar (ver `tema-8-fuentes.md`, apartado de auditoría).
-- [ ] Cada afirmación que reproduce el articulado está referenciada con `[TRLHL, art. X]`.
+- [ ] Cada afirmación que reproduce el articulado está referenciada con `(art. X TRLHL)`.
 - [ ] Cada pregunta del banco y de los casos puede reconducirse a un artículo del TRLHL o normativa conexa.
 
 ## 2. Estructura del contenido
@@ -36,14 +36,14 @@
 - [ ] Fundamento constitucional: **arts. 137, 140 y 142 CE** (+ 133.2); NO el artículo 156 (que es de CCAA).
 - [ ] Recursos del **art. 2.1**: patrimonio, tributos propios + recargos sobre impuestos de las CCAA o de otras entidades locales, participación Estado/CCAA, subvenciones, precios públicos, crédito, multas, demás prestaciones de derecho público.
 - [ ] Ingresos de derecho privado (art. 3): patrimonio + herencias/legados/donaciones; su efectividad se sujeta a las **normas y procedimientos del derecho privado** (art. 4); nunca lo son los que procedan de bienes de dominio público local (art. 3.3).
-- [ ] Tasas: cuantía por servicios **no excede del coste** [art. 24.2]; dominio público por el valor de mercado de la utilidad [art. 24.1]; ordenanza fiscal del Pleno; artículo 20.3 con letras a)-v) (Ley 9/2025).
+- [ ] Tasas: cuantía por servicios **no excede del coste** (art. 24.2); dominio público por el valor de mercado de la utilidad (art. 24.1); ordenanza fiscal del Pleno; artículo 20.3 con letras a)-v) (Ley 9/2025).
 - [ ] Contribuciones especiales: base **máx. 90 %** del coste soportado [**art. 31**]; módulos [**art. 32**].
-- [ ] Precios públicos: **mínimo el coste** [art. 44]; proceden si no concurre ninguna circunstancia del artículo 20.1.B) [art. 41]; **no** figuran entre los tributos propios [art. 2.1]; Pleno, con delegación en la Comisión de Gobierno [art. 47.1].
-- [ ] IBI: urbana **0,4–1,10 %**, rústica **0,3–0,90 %** [art. 72]; gestión **compartida** [art. 77].
-- [ ] IAE: exención de las personas físicas y por cifra de negocios **< 1.000.000 €** [art. 82.1.c)]; exención en los dos primeros períodos impositivos de actividad [art. 82.1.b)].
-- [ ] IVTM: coeficiente de incremento **máximo 2** [art. 95.4].
-- [ ] ICIO: tipo **máximo 4 %** [art. 102.3]; potestativo.
-- [ ] IIVTNU: base por coeficientes o por el incremento real si es inferior [art. 107.5], tras la STC 182/2021 + RDL 26/2021; no sujeción si no hay incremento [art. 104.5].
+- [ ] Precios públicos: **mínimo el coste** (art. 44); proceden si no concurre ninguna circunstancia del artículo 20.1.B) (art. 41); **no** figuran entre los tributos propios (art. 2.1); Pleno, con delegación en la Comisión de Gobierno (art. 47.1).
+- [ ] IBI: urbana **0,4–1,10 %**, rústica **0,3–0,90 %** (art. 72); gestión **compartida** (art. 77).
+- [ ] IAE: exención de las personas físicas y por cifra de negocios **< 1.000.000 €** (art. 82.1.c)); exención en los dos primeros períodos impositivos de actividad (art. 82.1.b)).
+- [ ] IVTM: coeficiente de incremento **máximo 2** (art. 95.4).
+- [ ] ICIO: tipo **máximo 4 %** (art. 102.3); potestativo.
+- [ ] IIVTNU: base por coeficientes o por el incremento real si es inferior (art. 107.5), tras la STC 182/2021 + RDL 26/2021; no sujeción si no hay incremento (art. 104.5).
 - [ ] Gastos suntuarios: solo cotos de caza y pesca [**DT 6.ª**].
 
 ## 4. Diagramas SVG

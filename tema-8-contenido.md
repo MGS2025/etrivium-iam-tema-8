@@ -22,7 +22,7 @@ Este tema incluye cuatro tipos de **cajas** para facilitar el estudio:
 
 > **[RELACIÓN CON OTROS TEMAS]** Relación con otros temas del temario o con otros bloques del propio Tema 8.
 
-Las citas al articulado se expresan como `[TRLHL, art. X]`. El registro completo de fuentes está en `tema-8-fuentes.md`.
+Las citas al articulado se expresan como `(art. X TRLHL)`. El registro completo de fuentes está en `tema-8-fuentes.md`.
 
 ---
 
@@ -30,9 +30,9 @@ Las citas al articulado se expresan como `[TRLHL, art. X]`. El registro completo
 
 ### 1.1 El TRLHL: objeto y estructura
 
-El régimen de las **Haciendas Locales** se contiene en el **texto refundido de la Ley Reguladora de las Haciendas Locales (TRLHL)**, aprobado por el **Real Decreto Legislativo 2/2004, de 5 de marzo** [TRLHL]. Este texto refundió la Ley 39/1988, de 28 de diciembre, Reguladora de las Haciendas Locales, y sus reformas posteriores.
+El régimen de las **Haciendas Locales** se contiene en el **texto refundido de la Ley Reguladora de las Haciendas Locales (TRLHL)**, aprobado por el **Real Decreto Legislativo 2/2004, de 5 de marzo** (TRLHL). Este texto refundió la Ley 39/1988, de 28 de diciembre, Reguladora de las Haciendas Locales, y sus reformas posteriores.
 
-> **[CITA NORMATIVA]** Tienen la consideración de **bases del régimen jurídico financiero de la Administración local**, dictadas al amparo del artículo 149.1.18.ª de la Constitución, los preceptos contenidos en esta ley, con excepción de los apartados 2 y 3 del artículo 186, salvo los que regulan el **sistema tributario local**, dictados en virtud del **artículo 133** de la Constitución, y los que desarrollan las **participaciones en los tributos del Estado** a que se refiere el **artículo 142** de la Constitución. La ley se aplica en todo el territorio nacional, **sin perjuicio de los regímenes financieros forales** de los Territorios Históricos del País Vasco y Navarra [TRLHL, art. 1.1 y 1.2].
+> **[CITA NORMATIVA]** Tienen la consideración de **bases del régimen jurídico financiero de la Administración local**, dictadas al amparo del artículo 149.1.18.ª de la Constitución, los preceptos contenidos en esta ley, con excepción de los apartados 2 y 3 del artículo 186, salvo los que regulan el **sistema tributario local**, dictados en virtud del **artículo 133** de la Constitución, y los que desarrollan las **participaciones en los tributos del Estado** a que se refiere el **artículo 142** de la Constitución. La ley se aplica en todo el territorio nacional, **sin perjuicio de los regímenes financieros forales** de los Territorios Históricos del País Vasco y Navarra (art. 1.1 y 1.2 TRLHL).
 
 Su estructura es la siguiente:
 
@@ -44,11 +44,11 @@ Su estructura es la siguiente:
 
 ### 1.2 Fundamento constitucional: autonomía y suficiencia financiera local
 
-> **[CITA NORMATIVA]** El Estado se organiza territorialmente en municipios, en provincias y en las Comunidades Autónomas que se constituyan, y *"todas estas entidades gozan de autonomía para la gestión de sus respectivos intereses"* [CE, art. 137]. *"La Constitución garantiza la autonomía de los municipios"*, cuyo gobierno y administración corresponde a sus respectivos **Ayuntamientos** [CE, art. 140].
+> **[CITA NORMATIVA]** El Estado se organiza territorialmente en municipios, en provincias y en las Comunidades Autónomas que se constituyan, y *"todas estas entidades gozan de autonomía para la gestión de sus respectivos intereses"* (art. 137 CE). *"La Constitución garantiza la autonomía de los municipios"*, cuyo gobierno y administración corresponde a sus respectivos **Ayuntamientos** (art. 140 CE).
 
-> **[CITA NORMATIVA]** *"Las Haciendas locales deberán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a las Corporaciones respectivas y se nutrirán fundamentalmente de tributos propios y de participación en los del Estado y de las Comunidades Autónomas"* [CE, art. 142].
+> **[CITA NORMATIVA]** *"Las Haciendas locales deberán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a las Corporaciones respectivas y se nutrirán fundamentalmente de tributos propios y de participación en los del Estado y de las Comunidades Autónomas"* (art. 142 CE).
 
-A ello se añade el **principio de legalidad tributaria**: la potestad originaria para establecer los tributos corresponde exclusivamente al Estado, mediante ley, y las Corporaciones locales podrán establecer y exigir tributos *de acuerdo con la Constitución y las leyes* [CE, art. 133.1 y 133.2].
+A ello se añade el **principio de legalidad tributaria**: la potestad originaria para establecer los tributos corresponde exclusivamente al Estado, mediante ley, y las Corporaciones locales podrán establecer y exigir tributos *de acuerdo con la Constitución y las leyes* (art. 133.1 y 133.2 CE).
 
 > **[DATO CLAVE]** Fundamento constitucional de la Hacienda Local: **artículos 137, 140 y 142 CE** (autonomía local + suficiencia financiera), más el **artículo 133.2 CE** (las Corporaciones locales establecen y exigen tributos de acuerdo con la Constitución y las leyes). **Cuidado**: el **artículo 156 CE** se refiere a la autonomía financiera de las **Comunidades Autónomas**, no de las entidades locales.
 
@@ -70,7 +70,7 @@ La **suficiencia financiera** exige que las Haciendas locales dispongan de los m
 
 ### 2.1 El listado legal del art. 2 TRLHL
 
-> **[CITA NORMATIVA]** La hacienda de las entidades locales estará constituida por los siguientes recursos [TRLHL, art. 2.1]:
+> **[CITA NORMATIVA]** La hacienda de las entidades locales estará constituida por los siguientes recursos (art. 2.1 TRLHL):
 
 - a) Los **ingresos procedentes de su patrimonio y demás de derecho privado**.
 - b) Los **tributos propios** clasificados en **tasas, contribuciones especiales e impuestos** y los **recargos** exigibles sobre los impuestos de las comunidades autónomas o de otras entidades locales.
@@ -87,7 +87,7 @@ La **suficiencia financiera** exige que las Haciendas locales dispongan de los m
 
 El TRLHL distingue los **ingresos de derecho público**, para cuya cobranza la Hacienda local ostenta las prerrogativas de la Hacienda del Estado (art. 2.2), y los **ingresos de derecho privado** (arts. 3 a 5).
 
-> **[CITA NORMATIVA]** Para la **cobranza** de los tributos y de las cantidades que como **ingresos de derecho público**, tales como prestaciones patrimoniales de carácter público no tributarias, precios públicos, y multas y sanciones pecuniarias, debe percibir la hacienda de las entidades locales, dicha Hacienda **ostentará las prerrogativas establecidas legalmente para la hacienda del Estado**, y actuará, en su caso, conforme a los procedimientos administrativos correspondientes [TRLHL, art. 2.2].
+> **[CITA NORMATIVA]** Para la **cobranza** de los tributos y de las cantidades que como **ingresos de derecho público**, tales como prestaciones patrimoniales de carácter público no tributarias, precios públicos, y multas y sanciones pecuniarias, debe percibir la hacienda de las entidades locales, dicha Hacienda **ostentará las prerrogativas establecidas legalmente para la hacienda del Estado**, y actuará, en su caso, conforme a los procedimientos administrativos correspondientes (art. 2.2 TRLHL).
 
 > **[DATO CLAVE]** **Ingresos de derecho público**: tributos, prestaciones patrimoniales de carácter público no tributarias, precios públicos, multas y sanciones pecuniarias → **prerrogativas de la Hacienda del Estado** (art. 2.2). **Ingresos de derecho privado**: rendimientos del patrimonio y adquisiciones por herencia, legado o donación (art. 3.1) → su efectividad se sujeta a las **normas y procedimientos del derecho privado** (art. 4).
 
@@ -115,7 +115,7 @@ Son **ingresos de derecho público** los tributos y las cantidades que, como tal
 
 La gestión, liquidación, inspección y recaudación de los tributos locales se realizará de acuerdo con lo prevenido en la **Ley 58/2003, General Tributaria (LGT)** y en las demás leyes del Estado reguladoras de la materia, así como en las disposiciones dictadas para su desarrollo (art. 12.1 TRLHL). A través de sus ordenanzas fiscales, las entidades locales pueden adaptar esa normativa a su régimen de organización y funcionamiento interno, sin que tal adaptación pueda contravenir su contenido material (art. 12.2 TRLHL).
 
-> **[CITA NORMATIVA]** La recaudación de las deudas tributarias podrá realizarse en **período voluntario** o en **período ejecutivo**, mediante el pago o cumplimiento espontáneo del obligado tributario o, en su defecto, a través del **procedimiento administrativo de apremio** [LGT, art. 160.2]. El procedimiento de apremio es **exclusivamente administrativo** [LGT, art. 163.1].
+> **[CITA NORMATIVA]** La recaudación de las deudas tributarias podrá realizarse en **período voluntario** o en **período ejecutivo**, mediante el pago o cumplimiento espontáneo del obligado tributario o, en su defecto, a través del **procedimiento administrativo de apremio** (art. 160.2 LGT). El procedimiento de apremio es **exclusivamente administrativo** (art. 163.1 LGT).
 
 En la exacción de los tributos locales y de los restantes ingresos de derecho público de las entidades locales, los **recargos e intereses de demora** se exigirán y determinarán en los mismos casos, forma y cuantía que en la exacción de los tributos del Estado (art. 10 TRLHL).
 
@@ -131,7 +131,7 @@ Las entidades locales podrán **delegar** en la comunidad autónoma o en otras e
 
 ### 4.1 Concepto (art. 3 TRLHL)
 
-> **[CITA NORMATIVA]** Constituyen **ingresos de derecho privado** de las entidades locales los **rendimientos o productos de cualquier naturaleza derivados de su patrimonio**, así como las **adquisiciones a título de herencia, legado o donación** [TRLHL, art. 3.1].
+> **[CITA NORMATIVA]** Constituyen **ingresos de derecho privado** de las entidades locales los **rendimientos o productos de cualquier naturaleza derivados de su patrimonio**, así como las **adquisiciones a título de herencia, legado o donación** (art. 3.1 TRLHL).
 
 A estos efectos, se considera **patrimonio** de las entidades locales el constituido por los bienes de su propiedad, así como por los derechos reales o personales de que sean titulares, **susceptibles de valoración económica**, siempre que unos y otros **no se hallen afectos al uso o servicio público** (art. 3.2 TRLHL). En ningún caso tendrán la consideración de ingresos de derecho privado los que procedan, por cualquier concepto, de los **bienes de dominio público local** (art. 3.3 TRLHL).
 
@@ -145,9 +145,9 @@ También son ingresos de derecho privado el importe obtenido en la **enajenació
 
 ### 4.3 Régimen jurídico (arts. 4 y 5 TRLHL)
 
-> **[CITA NORMATIVA]** La **efectividad de los derechos** de la hacienda local comprendidos en el capítulo de ingresos de derecho privado se llevará a cabo con sujeción a las **normas y procedimientos del derecho privado** [TRLHL, art. 4].
+> **[CITA NORMATIVA]** La **efectividad de los derechos** de la hacienda local comprendidos en el capítulo de ingresos de derecho privado se llevará a cabo con sujeción a las **normas y procedimientos del derecho privado** (art. 4 TRLHL).
 
-> **[CITA NORMATIVA]** Los ingresos procedentes de la **enajenación o gravamen de bienes y derechos patrimoniales** no podrán destinarse a la financiación de **gastos corrientes**, salvo que se trate de parcelas sobrantes de vías públicas no edificables o de efectos no utilizables en servicios municipales o provinciales [TRLHL, art. 5].
+> **[CITA NORMATIVA]** Los ingresos procedentes de la **enajenación o gravamen de bienes y derechos patrimoniales** no podrán destinarse a la financiación de **gastos corrientes**, salvo que se trate de parcelas sobrantes de vías públicas no edificables o de efectos no utilizables en servicios municipales o provinciales (art. 5 TRLHL).
 
 > **[DATO CLAVE]** Derecho público → prerrogativas de la Hacienda del Estado (art. 2.2). Derecho privado → **normas y procedimientos del derecho privado** (art. 4). Los ingresos que procedan de bienes de **dominio público local** nunca son de derecho privado (art. 3.3).
 
@@ -159,7 +159,7 @@ También son ingresos de derecho privado el importe obtenido en la **enajenació
 
 ### 5.1 Concepto y hecho imponible (art. 20)
 
-> **[CITA NORMATIVA]** Las entidades locales podrán establecer **tasas** por la **utilización privativa o el aprovechamiento especial del dominio público local**, así como por la **prestación de servicios públicos o la realización de actividades administrativas** de competencia local que se refieran, afecten o beneficien de modo particular a los sujetos pasivos [TRLHL, art. 20.1].
+> **[CITA NORMATIVA]** Las entidades locales podrán establecer **tasas** por la **utilización privativa o el aprovechamiento especial del dominio público local**, así como por la **prestación de servicios públicos o la realización de actividades administrativas** de competencia local que se refieran, afecten o beneficien de modo particular a los sujetos pasivos (art. 20.1 TRLHL).
 
 En todo caso, tendrán la consideración de tasas las prestaciones patrimoniales que establezcan las entidades locales por (art. 20.1):
 
@@ -199,13 +199,13 @@ Además, los ayuntamientos podrán establecer una tasa para la celebración de l
 
 ### 5.3 Supuestos excluidos y compatibilidad (arts. 21 y 22)
 
-> **[CITA NORMATIVA]** Las entidades locales **no podrán exigir tasas** por los servicios siguientes: a) abastecimiento de aguas en fuentes públicas; b) alumbrado de vías públicas; c) vigilancia pública en general; d) protección civil; e) limpieza de la vía pública; f) enseñanza en los niveles de educación obligatoria [TRLHL, art. 21.1].
+> **[CITA NORMATIVA]** Las entidades locales **no podrán exigir tasas** por los servicios siguientes: a) abastecimiento de aguas en fuentes públicas; b) alumbrado de vías públicas; c) vigilancia pública en general; d) protección civil; e) limpieza de la vía pública; f) enseñanza en los niveles de educación obligatoria (art. 21.1 TRLHL).
 
 El Estado, las comunidades autónomas y las entidades locales no están obligados al pago de las tasas por utilización privativa o aprovechamiento especial del dominio público por los aprovechamientos inherentes a los servicios públicos de comunicaciones que exploten directamente y por todos los que inmediatamente interesen a la seguridad ciudadana o a la defensa nacional (art. 21.2). Las tasas por la prestación de servicios **no excluyen** la exacción de contribuciones especiales por el establecimiento o ampliación de aquéllos (art. 22).
 
 ### 5.4 Sujeto pasivo (art. 23)
 
-> **[CITA NORMATIVA]** Son **sujetos pasivos** de las tasas, en concepto de contribuyentes, las **personas físicas y jurídicas** así como las **entidades a que se refiere el artículo 35.4 de la Ley General Tributaria** (herencias yacentes, comunidades de bienes y demás entidades que, carentes de personalidad jurídica, constituyan una unidad económica o un patrimonio separado susceptibles de imposición): a) que **disfruten, utilicen o aprovechen especialmente** el dominio público local en beneficio particular, conforme a alguno de los supuestos del artículo 20.3; b) que **soliciten o resulten beneficiadas o afectadas** por los servicios o actividades locales, conforme a alguno de los supuestos del artículo 20.4 [TRLHL, art. 23.1; LGT, art. 35.4].
+> **[CITA NORMATIVA]** Son **sujetos pasivos** de las tasas, en concepto de contribuyentes, las **personas físicas y jurídicas** así como las **entidades a que se refiere el artículo 35.4 de la Ley General Tributaria** (herencias yacentes, comunidades de bienes y demás entidades que, carentes de personalidad jurídica, constituyan una unidad económica o un patrimonio separado susceptibles de imposición): a) que **disfruten, utilicen o aprovechen especialmente** el dominio público local en beneficio particular, conforme a alguno de los supuestos del artículo 20.3; b) que **soliciten o resulten beneficiadas o afectadas** por los servicios o actividades locales, conforme a alguno de los supuestos del artículo 20.4 (art. 23.1 TRLHL; art. 35.4 LGT).
 
 ### 5.5 Cuantía (arts. 24-25)
 
@@ -216,7 +216,7 @@ La cuantía depende de la modalidad de hecho imponible:
 | **Utilización del dominio público** | Con carácter general, el **valor que tendría en el mercado la utilidad** derivada de la utilización o aprovechamiento, si los bienes no fuesen de dominio público; si hay licitación pública, el valor económico de la proposición adjudicataria; para las empresas explotadoras de servicios de suministros de interés general, el **1,5 %** de los ingresos brutos de facturación en el término municipal | art. 24.1 |
 | **Prestación de servicios** | El importe **no podrá exceder, en su conjunto, del coste real o previsible** del servicio o actividad o, en su defecto, del valor de la prestación recibida | art. 24.2 |
 
-> **[CITA NORMATIVA]** En general, el importe de las tasas por la prestación de un servicio o por la realización de una actividad **no podrá exceder, en su conjunto, del coste real o previsible** del servicio o actividad, o, en su defecto, del valor de la prestación recibida. Para determinarlo se toman en consideración los **costes directos e indirectos**, inclusive los de carácter financiero, amortización del inmovilizado y, en su caso, los necesarios para garantizar el mantenimiento y un desarrollo razonable del servicio o actividad [TRLHL, art. 24.2].
+> **[CITA NORMATIVA]** En general, el importe de las tasas por la prestación de un servicio o por la realización de una actividad **no podrá exceder, en su conjunto, del coste real o previsible** del servicio o actividad, o, en su defecto, del valor de la prestación recibida. Para determinarlo se toman en consideración los **costes directos e indirectos**, inclusive los de carácter financiero, amortización del inmovilizado y, en su caso, los necesarios para garantizar el mantenimiento y un desarrollo razonable del servicio o actividad (art. 24.2 TRLHL).
 
 La **cuota tributaria** consistirá, según disponga la ordenanza fiscal, en la cantidad resultante de aplicar una **tarifa**, una **cantidad fija** señalada al efecto, o la aplicación conjunta de ambos procedimientos (art. 24.3). Para la determinación de la cuantía **podrán** tenerse en cuenta **criterios genéricos de capacidad económica** de los sujetos obligados (art. 24.4).
 
@@ -243,7 +243,7 @@ Los acuerdos de establecimiento de tasas por la utilización privativa o el apro
 
 ### 6.1 Concepto y hecho imponible (art. 28)
 
-> **[CITA NORMATIVA]** Constituye el **hecho imponible** de las contribuciones especiales la **obtención por el sujeto pasivo de un beneficio o de un aumento de valor de sus bienes** como consecuencia de la **realización de obras públicas** o del **establecimiento o ampliación de servicios públicos**, de carácter local, por las entidades respectivas [TRLHL, art. 28].
+> **[CITA NORMATIVA]** Constituye el **hecho imponible** de las contribuciones especiales la **obtención por el sujeto pasivo de un beneficio o de un aumento de valor de sus bienes** como consecuencia de la **realización de obras públicas** o del **establecimiento o ampliación de servicios públicos**, de carácter local, por las entidades respectivas (art. 28 TRLHL).
 
 Las cantidades recaudadas por contribuciones especiales **sólo podrán destinarse** a sufragar los gastos de la obra o del servicio por cuya razón se hubiesen exigido (art. 29.3).
 
@@ -251,13 +251,13 @@ Las cantidades recaudadas por contribuciones especiales **sólo podrán destinar
 
 ### 6.2 Sujetos pasivos (art. 30)
 
-> **[CITA NORMATIVA]** Son sujetos pasivos de las contribuciones especiales las **personas físicas y jurídicas** y las **entidades a que se refiere el artículo 35.4 LGT**, **especialmente beneficiadas** por la realización de las obras o por el establecimiento o ampliación de los servicios locales que originen la obligación de contribuir [TRLHL, art. 30.1].
+> **[CITA NORMATIVA]** Son sujetos pasivos de las contribuciones especiales las **personas físicas y jurídicas** y las **entidades a que se refiere el artículo 35.4 LGT**, **especialmente beneficiadas** por la realización de las obras o por el establecimiento o ampliación de los servicios locales que originen la obligación de contribuir (art. 30.1 TRLHL).
 
 Se consideran personas especialmente beneficiadas (art. 30.2): en obras o servicios que afecten a bienes inmuebles, sus **propietarios**; en los que se realicen a consecuencia de explotaciones empresariales, sus **titulares**; en el establecimiento o ampliación de los servicios de extinción de incendios, además de los propietarios de los bienes afectados, las **compañías de seguros** que desarrollen su actividad en el ramo en el término municipal; y en la construcción de galerías subterráneas, las **empresas suministradoras** que deban utilizarlas.
 
 ### 6.3 Base imponible y cuota (arts. 31-32)
 
-> **[CITA NORMATIVA]** La **base imponible** de las contribuciones especiales está constituida, como **máximo, por el 90 por ciento** del **coste que la entidad local soporte** por la realización de las obras o por el establecimiento o ampliación de los servicios [TRLHL, art. 31.1].
+> **[CITA NORMATIVA]** La **base imponible** de las contribuciones especiales está constituida, como **máximo, por el 90 por ciento** del **coste que la entidad local soporte** por la realización de las obras o por el establecimiento o ampliación de los servicios (art. 31.1 TRLHL).
 
 Se entiende por **coste soportado** la cuantía resultante de restar a la cifra del coste total el importe de las **subvenciones o auxilios** que la entidad local obtenga del Estado o de cualquier otra persona, o entidad pública o privada (art. 31.5). El coste total presupuestado tiene carácter de **mera previsión**: si el coste real fuese mayor o menor, se tomará aquél a efectos del cálculo de las cuotas (art. 31.3).
 
@@ -270,7 +270,7 @@ Se entiende por **coste soportado** la cuantía resultante de restar a la cifra 
 - su **volumen edificable**;
 - el **valor catastral** a efectos del IBI.
 
-> **[CITA NORMATIVA]** La **base imponible** de las contribuciones especiales **se repartirá entre los sujetos pasivos**, teniendo en cuenta la clase y naturaleza de las obras y servicios, con sujeción a las reglas del artículo 32.1. Una vez determinada la cuota, la corporación podrá conceder, a solicitud del sujeto pasivo, el **fraccionamiento o aplazamiento** por un plazo máximo de **cinco años** [TRLHL, art. 32.1 y 32.3].
+> **[CITA NORMATIVA]** La **base imponible** de las contribuciones especiales **se repartirá entre los sujetos pasivos**, teniendo en cuenta la clase y naturaleza de las obras y servicios, con sujeción a las reglas del artículo 32.1. Una vez determinada la cuota, la corporación podrá conceder, a solicitud del sujeto pasivo, el **fraccionamiento o aplazamiento** por un plazo máximo de **cinco años** (art. 32.1 y 32.3 TRLHL).
 
 ### 6.4 Devengo, imposición y ordenación (arts. 33-37)
 
@@ -287,7 +287,7 @@ Se entiende por **coste soportado** la cuantía resultante de restar a la cifra 
 
 ### 7.1 Concepto (arts. 41 y 42)
 
-> **[CITA NORMATIVA]** Las entidades locales podrán establecer **precios públicos** por la **prestación de servicios o la realización de actividades** de la competencia de la entidad local, siempre que **no concurra ninguna de las circunstancias especificadas en el artículo 20.1.B)** de esta ley [TRLHL, art. 41].
+> **[CITA NORMATIVA]** Las entidades locales podrán establecer **precios públicos** por la **prestación de servicios o la realización de actividades** de la competencia de la entidad local, siempre que **no concurra ninguna de las circunstancias especificadas en el artículo 20.1.B)** de esta ley (art. 41 TRLHL).
 
 Por tanto, cabe precio público cuando no se da ninguna de las circunstancias del artículo 20.1.B):
 
@@ -302,9 +302,9 @@ Si se produce **cualquiera** de esas circunstancias, la prestación tiene la con
 
 Están obligados al pago quienes **se beneficien** de los servicios o actividades por los que deban satisfacerse (art. 43).
 
-> **[CITA NORMATIVA]** El importe de los precios públicos deberá **cubrir como mínimo el coste** del servicio prestado o de la actividad realizada [TRLHL, art. 44.1].
+> **[CITA NORMATIVA]** El importe de los precios públicos deberá **cubrir como mínimo el coste** del servicio prestado o de la actividad realizada (art. 44.1 TRLHL).
 
-> **[CITA NORMATIVA]** Cuando existan **razones sociales, benéficas, culturales o de interés público** que así lo aconsejen, la entidad podrá fijar precios públicos **por debajo** de ese límite. En estos casos deberán consignarse en los presupuestos de la entidad las **dotaciones oportunas para la cobertura de la diferencia** resultante si la hubiera [TRLHL, art. 44.2].
+> **[CITA NORMATIVA]** Cuando existan **razones sociales, benéficas, culturales o de interés público** que así lo aconsejen, la entidad podrá fijar precios públicos **por debajo** de ese límite. En estos casos deberán consignarse en los presupuestos de la entidad las **dotaciones oportunas para la cobertura de la diferencia** resultante si la hubiera (art. 44.2 TRLHL).
 
 > **[DATO CLAVE]** **Precio público**: el coste como **mínimo** (art. 44.1), con la excepción del artículo 44.2. **Tasa por servicios**: el coste como **máximo** (art. 24.2).
 
@@ -313,11 +313,11 @@ Están obligados al pago quienes **se beneficien** de los servicios o actividade
 - Las entidades locales podrán exigir los precios públicos en régimen de **autoliquidación** (art. 45).
 - La obligación de pagar nace **desde que se inicie la prestación** del servicio o la realización de la actividad, si bien podrá exigirse el **depósito previo** de su importe total o parcial (art. 46.1). Si por causas no imputables al obligado el servicio no se presta, procede la **devolución** (art. 46.2).
 
-> **[CITA NORMATIVA]** El establecimiento o modificación de los precios públicos corresponderá al **Pleno** de la corporación, sin perjuicio de sus facultades de **delegación en la Comisión de Gobierno**, conforme al artículo 23.2.b) de la Ley 7/1985, Reguladora de las Bases de Régimen Local [TRLHL, art. 47.1].
+> **[CITA NORMATIVA]** El establecimiento o modificación de los precios públicos corresponderá al **Pleno** de la corporación, sin perjuicio de sus facultades de **delegación en la Comisión de Gobierno**, conforme al artículo 23.2.b) de la Ley 7/1985, Reguladora de las Bases de Régimen Local (art. 47.1 TRLHL).
 
 El artículo 23.2.b) LBRL atribuye hoy a la **Junta de Gobierno Local** las atribuciones que le deleguen otros órganos municipales. Las entidades locales podrán **atribuir a sus organismos autónomos** la fijación de los precios públicos correspondientes a los servicios a su cargo, **salvo cuando los precios no cubran su coste**; también, en iguales términos, a los **consorcios**, a menos que otra cosa se diga en sus estatutos (art. 47.2).
 
-> **[EJEMPLO DE APLICACIÓN EN EL AYTO]** Pueden ser precios públicos del Ayuntamiento de Madrid las **entradas a instalaciones deportivas municipales** o los **cursos y talleres** de los centros culturales cuando el servicio es de solicitud voluntaria y lo presta también el sector privado; si falta cualquiera de esas dos condiciones, la contraprestación es una tasa (el art. 20.4.o cita las piscinas e instalaciones deportivas entre los supuestos de tasa).
+> **[EJEMPLO DE APLICACIÓN EN EL AYTO]** Puede ser un precio público del Ayuntamiento de Madrid el de los **campamentos urbanos de verano** o las **actividades de ocio** que organiza un distrito, cuando la actividad es de solicitud voluntaria y la ofrece también el sector privado; si falta cualquiera de esas dos condiciones, la contraprestación es una tasa (art. 20.1.B).
 
 ---
 
@@ -325,13 +325,13 @@ El artículo 23.2.b) LBRL atribuye hoy a la **Junta de Gobierno Local** las atri
 
 ### 8.1 Concepto
 
-> **[CITA NORMATIVA]** **Impuestos** son los tributos exigidos **sin contraprestación** cuyo hecho imponible está constituido por **negocios, actos o hechos que ponen de manifiesto la capacidad económica del contribuyente** [LGT, art. 2.2.c)].
+> **[CITA NORMATIVA]** **Impuestos** son los tributos exigidos **sin contraprestación** cuyo hecho imponible está constituido por **negocios, actos o hechos que ponen de manifiesto la capacidad económica del contribuyente** (art. 2.2.c) LGT).
 
 El TRLHL regula los impuestos municipales en los **artículos 59 a 110** y distingue los que los ayuntamientos **exigirán** y los que **podrán establecer y exigir**.
 
 ### 8.2 Clasificación: impuestos obligatorios e impuestos potestativos
 
-> **[CITA NORMATIVA]** Los ayuntamientos **exigirán**, de acuerdo con esta ley y las disposiciones que la desarrollan, el IBI, el IAE y el IVTM. Asimismo, **podrán establecer y exigir** el ICIO y el IIVTNU, de acuerdo con esta ley, las disposiciones que la desarrollen y las respectivas ordenanzas fiscales [TRLHL, art. 59.1 y 59.2].
+> **[CITA NORMATIVA]** Los ayuntamientos **exigirán**, de acuerdo con esta ley y las disposiciones que la desarrollan, el IBI, el IAE y el IVTM. Asimismo, **podrán establecer y exigir** el ICIO y el IIVTNU, de acuerdo con esta ley, las disposiciones que la desarrollen y las respectivas ordenanzas fiscales (art. 59.1 y 59.2 TRLHL).
 
 #### Impuestos obligatorios (art. 59.1)
 

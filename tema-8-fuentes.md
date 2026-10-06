@@ -35,10 +35,10 @@ El Tema 8 trabaja con un **corpus normativo cerrado**: el articulado del **texto
 
 ### Esquema de referencia para el contenido
 
-- **Articulado TRLHL**: `[TRLHL, art. X]` o `[TRLHL, art. X.Y]` — p. ej. `[TRLHL, art. 24.2]`
-- **Constitución**: `[CE, art. 142]`
-- **Ley General Tributaria**: `[LGT, art. 2.2.c)]`
-- **Disposición transitoria**: `[TRLHL, DT 6.ª]`
+- **Articulado TRLHL**: `(art. X TRLHL)` o `(art. X.Y TRLHL)` — p. ej. `(art. 24.2 TRLHL)`
+- **Constitución**: `(art. 142 CE)`
+- **Ley General Tributaria**: `(art. 2.2.c) LGT)`
+- **Disposición transitoria**: `(DT 6.ª TRLHL)`
 
 ---
 
@@ -52,7 +52,7 @@ El Tema 8 trabaja con un **corpus normativo cerrado**: el articulado del **texto
 
 ## Normas de citación en el contenido
 
-1. Toda afirmación que reproduzca el articulado va acompañada de `[TRLHL, art. X]`.
+1. Toda afirmación que reproduzca el articulado va acompañada de `(art. X TRLHL)`.
 2. Los datos memorísticos (cuantías, porcentajes, límites, órganos competentes) van en cajas **Dato clave**.
 3. Las reproducciones literales o paráfrasis cercanas del articulado, incluida la Constitución, van en cajas **Cita normativa**.
 4. La aplicación al Ayuntamiento de Madrid (IAM) va en cajas **Ejemplo de aplicación en el Ayto**.
@@ -64,15 +64,15 @@ El Tema 8 trabaja con un **corpus normativo cerrado**: el articulado del **texto
 
 Las siguientes cifras y referencias se han **contrastado con el texto consolidado** antes de la redacción:
 
-- IBI: urbana **0,4 %–1,10 %**, rústica **0,3 %–0,90 %**, BICE 0,6 % supletorio [art. 72]; gestión **compartida** [art. 77].
-- IAE: exención por cifra de negocios **< 1.000.000 €** y de las personas físicas [art. 82.1.c)]; exención por inicio de actividad (dos primeros períodos impositivos) [art. 82.1.b)].
-- IVTM: coeficiente de incremento **máximo 2** [art. 95.4].
-- ICIO: tipo **máximo 4 %** [art. 102.3]; potestativo [art. 59.2].
-- IIVTNU: base por coeficientes o, a instancia del sujeto pasivo, por el incremento real si es inferior [art. 107.5]; no sujeción por inexistencia de incremento [art. 104.5], conforme a STC 182/2021 + RDL 26/2021.
-- Contribuciones especiales: base **máx. 90 %** del coste soportado [**art. 31.1**]; coste soportado = coste total menos subvenciones [art. 31.5]; módulos [**art. 32.1**].
-- Tasas: límite del **coste** [art. 24.2]; dominio público por el valor de mercado de la utilidad [art. 24.1]; artículo 20.3 con letras a)-v) tras la Ley 9/2025, de 3 de diciembre.
-- Precios públicos: cuantía **mínimo coste** [art. 44]; procede cuando no concurre ninguna circunstancia del artículo 20.1.B) [art. 41]; **no** figuran entre los tributos propios [art. 2.1.b) y e)].
-- Ingresos de derecho privado: su efectividad se sujeta a las normas y procedimientos del derecho privado [art. 4]; quedan fuera los que procedan de bienes de dominio público local [art. 3.3].
+- IBI: urbana **0,4 %–1,10 %**, rústica **0,3 %–0,90 %**, BICE 0,6 % supletorio (art. 72); gestión **compartida** (art. 77).
+- IAE: exención por cifra de negocios **< 1.000.000 €** y de las personas físicas (art. 82.1.c)); exención por inicio de actividad (dos primeros períodos impositivos) (art. 82.1.b)).
+- IVTM: coeficiente de incremento **máximo 2** (art. 95.4).
+- ICIO: tipo **máximo 4 %** (art. 102.3); potestativo (art. 59.2).
+- IIVTNU: base por coeficientes o, a instancia del sujeto pasivo, por el incremento real si es inferior (art. 107.5); no sujeción por inexistencia de incremento (art. 104.5), conforme a STC 182/2021 + RDL 26/2021.
+- Contribuciones especiales: base **máx. 90 %** del coste soportado [**art. 31.1**]; coste soportado = coste total menos subvenciones (art. 31.5); módulos [**art. 32.1**].
+- Tasas: límite del **coste** (art. 24.2); dominio público por el valor de mercado de la utilidad (art. 24.1); artículo 20.3 con letras a)-v) tras la Ley 9/2025, de 3 de diciembre.
+- Precios públicos: cuantía **mínimo coste** (art. 44); procede cuando no concurre ninguna circunstancia del artículo 20.1.B) (art. 41); **no** figuran entre los tributos propios (art. 2.1.b) y e)).
+- Ingresos de derecho privado: su efectividad se sujeta a las normas y procedimientos del derecho privado (art. 4); quedan fuera los que procedan de bienes de dominio público local (art. 3.3).
 - Gastos suntuarios: solo cotos de caza y pesca [**DT 6.ª**].
 - Fundamento constitucional: **arts. 137, 140, 142 (+133.2)**; el artículo 156 CE es de las CCAA.
 

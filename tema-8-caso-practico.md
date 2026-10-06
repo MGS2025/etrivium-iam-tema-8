@@ -19,7 +19,7 @@
 
 ## CASO PRÁCTICO 1 — Tasa, precio público o contribución especial
 
-**Escenario**: El Ayuntamiento estudia cómo financiar tres actuaciones: (a) la recogida domiciliaria de basuras, de prestación obligatoria; (b) la entrada a una piscina municipal, que también ofrecen gimnasios privados de la zona; y (c) la pavimentación de una calle, que revaloriza los inmuebles colindantes.
+**Escenario**: El Ayuntamiento estudia cómo financiar tres actuaciones: (a) la recogida domiciliaria de basuras, de prestación obligatoria; (b) un campamento urbano de verano para menores, de inscripción voluntaria, que también ofrecen empresas privadas de la zona; y (c) la pavimentación de una calle, que revaloriza los inmuebles colindantes.
 
 **Cuestiones**:
 
