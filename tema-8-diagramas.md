@@ -86,28 +86,27 @@
   <rect x="20" y="90" width="160" height="64" rx="8" fill="#fdeaea" stroke="#d13c3c"/>
   <text x="100" y="114" class="t" style="font-weight:700">a) Patrimonio</text>
   <text x="100" y="134" class="s">y demás de derecho privado</text>
-  <rect x="200" y="90" width="180" height="64" rx="8" fill="#e8f5ee" stroke="#2d8659"/>
-  <text x="290" y="110" class="t" style="font-weight:700">b) Tributos propios</text>
-  <text x="290" y="128" class="s">tasas · contrib. especiales ·</text>
-  <text x="290" y="144" class="s">impuestos (+ recargos)</text>
-  <rect x="400" y="90" width="180" height="64" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
-  <text x="490" y="114" class="t" style="font-weight:700">c) Participación</text>
-  <text x="490" y="134" class="s">tributos del Estado y CCAA</text>
-  <rect x="600" y="90" width="100" height="64" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
-  <text x="650" y="114" class="t" style="font-weight:700">d) Subven-</text>
-  <text x="650" y="132" class="t" style="font-weight:700">ciones</text>
-  <rect x="20" y="172" width="160" height="64" rx="8" fill="#e8f5ee" stroke="#2d8659"/>
+  <rect x="190" y="90" width="170" height="64" rx="8" fill="#e8f5ee" stroke="#2d8659"/>
+  <text x="275" y="110" class="t" style="font-weight:700">b) Tributos propios</text>
+  <text x="275" y="128" class="s">tasas · contrib. especiales ·</text>
+  <text x="275" y="144" class="s">impuestos (+ recargos)</text>
+  <rect x="370" y="90" width="170" height="64" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
+  <text x="455" y="114" class="t" style="font-weight:700">c) Participación</text>
+  <text x="455" y="134" class="s">tributos del Estado y CCAA</text>
+  <rect x="550" y="90" width="150" height="64" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
+  <text x="625" y="127" class="t" style="font-weight:700">d) Subvenciones</text>
+    <rect x="20" y="172" width="160" height="64" rx="8" fill="#e8f5ee" stroke="#2d8659"/>
   <text x="100" y="196" class="t" style="font-weight:700">e) Precios</text>
   <text x="100" y="214" class="t" style="font-weight:700">públicos</text>
-  <rect x="200" y="172" width="180" height="64" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
-  <text x="290" y="196" class="t" style="font-weight:700">f) Operaciones</text>
-  <text x="290" y="214" class="t" style="font-weight:700">de crédito</text>
-  <rect x="400" y="172" width="180" height="64" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
-  <text x="490" y="196" class="t" style="font-weight:700">g) Multas y</text>
-  <text x="490" y="214" class="t" style="font-weight:700">sanciones</text>
-  <rect x="600" y="172" width="100" height="64" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
-  <text x="650" y="196" class="t" style="font-weight:700">h) Demás</text>
-  <text x="650" y="214" class="s">prest. dcho. público</text>
+  <rect x="190" y="172" width="170" height="64" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
+  <text x="275" y="196" class="t" style="font-weight:700">f) Operaciones</text>
+  <text x="275" y="214" class="t" style="font-weight:700">de crédito</text>
+  <rect x="370" y="172" width="170" height="64" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
+  <text x="455" y="196" class="t" style="font-weight:700">g) Multas y</text>
+  <text x="455" y="214" class="t" style="font-weight:700">sanciones</text>
+  <rect x="550" y="172" width="150" height="64" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
+  <text x="625" y="196" class="t" style="font-weight:700">h) Demás</text>
+  <text x="625" y="214" class="s">prest. dcho. público</text>
   <rect x="120" y="270" width="480" height="70" rx="8" fill="#fff5e6" stroke="#e89822"/>
   <text x="360" y="296" class="t" style="font-weight:700;fill:#b5740f">Tributos propios = TASAS + CONTRIBUCIONES ESPECIALES + IMPUESTOS</text>
   <text x="360" y="320" class="s">el resto son recursos no tributarios (salvo recargos)</text>
@@ -122,7 +121,7 @@
 **Propósito**: Contrastar régimen, clases y cobro de ambas categorías.
 
 ```svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 350" role="img" aria-label="Para la cobranza de los ingresos de derecho público la Hacienda local ostenta las prerrogativas de la Hacienda del Estado (art. 2.2); la efectividad de los derechos derivados de ingresos de derecho privado se sujeta a las normas y procedimientos del derecho privado (art. 4)">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 362" role="img" aria-label="Para la cobranza de los ingresos de derecho público la Hacienda local ostenta las prerrogativas de la Hacienda del Estado (art. 2.2); la efectividad de los derechos derivados de ingresos de derecho privado se sujeta a las normas y procedimientos del derecho privado (art. 4)">
   <style>
     .h{font:700 13px system-ui,sans-serif;fill:#fff;text-anchor:middle}
     .t{font:12px system-ui,sans-serif;fill:#1a1a1a;text-anchor:middle}
@@ -132,7 +131,7 @@
   <text x="185" y="47" class="h">INGRESOS DE DERECHO PÚBLICO</text>
   <rect x="380" y="20" width="310" height="44" rx="8" fill="#7a5230"/>
   <text x="535" y="47" class="h">INGRESOS DE DERECHO PRIVADO</text>
-  <rect x="30" y="78" width="310" height="180" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
+  <rect x="30" y="78" width="310" height="190" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
   <text x="48" y="104" class="s" style="font-weight:700;fill:#0055a0">Régimen: procedimientos administrativos</text>
   <text x="48" y="128" class="s">• Prerrogativas de la Hacienda del Estado</text>
   <text x="48" y="150" class="s">• Tributos: apremio en período ejecutivo</text>
@@ -141,7 +140,7 @@
   <text x="58" y="208" class="s">participaciones, subvenciones,</text>
   <text x="58" y="226" class="s">multas, precios públicos</text>
   <text x="48" y="248" class="s" style="fill:#0055a0">art. 2.2 TRLHL</text>
-  <rect x="380" y="78" width="310" height="180" rx="8" fill="#f3ece4" stroke="#7a5230"/>
+  <rect x="380" y="78" width="310" height="190" rx="8" fill="#f3ece4" stroke="#7a5230"/>
   <text x="398" y="104" class="s" style="font-weight:700;fill:#7a5230">Régimen: derecho privado (art. 4)</text>
   <text x="398" y="128" class="s">• Sin las prerrogativas del art. 2.2</text>
   <text x="398" y="150" class="s">• Clases: rendimientos del patrimonio;</text>
@@ -150,9 +149,9 @@
   <text x="398" y="216" class="s" style="font-weight:700;fill:#d13c3c">• Efectividad: normas y procedimientos</text>
   <text x="408" y="234" class="s" style="font-weight:700;fill:#d13c3c">del derecho privado (art. 4)</text>
   <text x="398" y="252" class="s" style="fill:#7a5230">arts. 3 y 4 TRLHL</text>
-  <rect x="120" y="278" width="480" height="56" rx="8" fill="#fff5e6" stroke="#e89822"/>
-  <text x="360" y="302" class="t" style="font-weight:700;fill:#b5740f">Diferencia: las PRERROGATIVAS de cobranza</text>
-  <text x="360" y="322" class="s" style="text-anchor:middle">público: prerrogativas (art. 2.2) · privado: derecho privado (art. 4)</text>
+  <rect x="120" y="290" width="480" height="56" rx="8" fill="#fff5e6" stroke="#e89822"/>
+  <text x="360" y="314" class="t" style="font-weight:700;fill:#b5740f">Diferencia: las PRERROGATIVAS de cobranza</text>
+  <text x="360" y="334" class="s" style="text-anchor:middle">público: prerrogativas (art. 2.2) · privado: derecho privado (art. 4)</text>
 </svg>
 ```
 
@@ -539,11 +538,11 @@
   <text x="320" y="350" class="s" style="fill:#b5740f">art. 59.2</text>
   <rect x="430" y="194" width="260" height="164" rx="7" fill="#fff5e6" stroke="#e89822"/>
   <text x="560" y="218" class="t" style="font-weight:700;fill:#b5740f">Datos clave</text>
-  <text x="560" y="244" class="s">tasa = techo · precio púb. = suelo</text>
-  <text x="560" y="266" class="s">precio público NO es tributo (2.1)</text>
-  <text x="560" y="288" class="s">90 % = art. 31 · módulos = art. 32</text>
-  <text x="560" y="310" class="s">CE: 137 · 140 · 142 (no 156)</text>
-  <text x="560" y="332" class="s">Madrid: Ley 22/2006 (TEAM + ATM)</text>
-  <text x="560" y="352" class="s" style="fill:#b5740f">prerrogativas para lo público (2.2)</text>
+  <text x="560" y="240" class="s">tasa = techo · precio púb. = suelo</text>
+  <text x="560" y="261" class="s">precio público NO es tributo (2.1)</text>
+  <text x="560" y="282" class="s">90 % = art. 31 · módulos = art. 32</text>
+  <text x="560" y="303" class="s">CE: 137 · 140 · 142 (no 156)</text>
+  <text x="560" y="324" class="s">Madrid: Ley 22/2006 (TEAM + ATM)</text>
+  <text x="560" y="345" class="s" style="fill:#b5740f">prerrogativas para lo público (2.2)</text>
 </svg>
 ```
