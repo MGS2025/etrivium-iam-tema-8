@@ -2,8 +2,8 @@
 
 > **Título oficial**: RDLeg 2/2004 (TRLHL): Recursos de las Haciendas Locales, ingresos de derecho público y privado, tasas, contribuciones especiales, precios públicos e impuestos municipales.
 >
-> **Versión**: 1.1 — correcciones de María (conectores D1/D5/D7)
-> **Fecha**: 2026-06-30
+> **Versión**: 1.3 — Revisión jurídica
+> **Fecha**: 2026-10-01
 > **Formato**: SVG inline (zero-dependencias, escalable, imprimible)
 > **Paleta**: Ayuntamiento de Madrid #0055a0 (primario) + #d13c3c (alertas) + #2d8659 (ventajas) + #e89822 (callouts)
 
@@ -61,8 +61,8 @@
   <text x="350" y="205" class="t" style="font-weight:700">TRLHL · RDLeg 2/2004, de 5 de marzo</text>
   <text x="350" y="225" class="s">refunde la Ley 39/1988 · regula los recursos locales</text>
   <rect x="160" y="262" width="380" height="52" rx="8" fill="#fff5e6" stroke="#e89822"/>
-  <text x="350" y="284" class="s" style="font-weight:700;fill:#b5740f">Principio rector: suficiencia financiera (art. 142 CE)</text>
-  <text x="350" y="302" class="s">los recursos deben bastar para las competencias locales</text>
+  <text x="350" y="284" class="s" style="font-weight:700;fill:#b5740f">Suficiencia financiera (art. 142 CE)</text>
+  <text x="350" y="302" class="s">medios suficientes para las funciones que la ley atribuye</text>
 </svg>
 ```
 
@@ -122,7 +122,7 @@
 **Propósito**: Contrastar régimen, clases y cobro de ambas categorías.
 
 ```svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 350" role="img" aria-label="Los ingresos de derecho público gozan de prerrogativas de autotutela y apremio; los de derecho privado se rigen por el Derecho privado y no tienen prerrogativas, pero su cobro impagado también va por apremio">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 350" role="img" aria-label="Para la cobranza de los ingresos de derecho público la Hacienda local ostenta las prerrogativas de la Hacienda del Estado (art. 2.2); la efectividad de los derechos derivados de ingresos de derecho privado se sujeta a las normas y procedimientos del derecho privado (art. 4)">
   <style>
     .h{font:700 13px system-ui,sans-serif;fill:#fff;text-anchor:middle}
     .t{font:12px system-ui,sans-serif;fill:#1a1a1a;text-anchor:middle}
@@ -133,26 +133,26 @@
   <rect x="380" y="20" width="310" height="44" rx="8" fill="#7a5230"/>
   <text x="535" y="47" class="h">INGRESOS DE DERECHO PRIVADO</text>
   <rect x="30" y="78" width="310" height="180" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
-  <text x="48" y="104" class="s" style="font-weight:700;fill:#0055a0">Régimen: Derecho Admvo./Tributario</text>
-  <text x="48" y="128" class="s">• Autotutela y ejecutividad</text>
-  <text x="48" y="150" class="s">• Cobro por procedimiento de apremio</text>
+  <text x="48" y="104" class="s" style="font-weight:700;fill:#0055a0">Régimen: procedimientos administrativos</text>
+  <text x="48" y="128" class="s">• Prerrogativas de la Hacienda del Estado</text>
+  <text x="48" y="150" class="s">• Tributos: apremio en período ejecutivo</text>
   <text x="48" y="172" class="s">• Clases: tributos (impuestos, tasas,</text>
   <text x="58" y="190" class="s">contrib. especiales), recargos,</text>
   <text x="58" y="208" class="s">participaciones, subvenciones,</text>
   <text x="58" y="226" class="s">multas, precios públicos</text>
   <text x="48" y="248" class="s" style="fill:#0055a0">art. 2.2 TRLHL</text>
   <rect x="380" y="78" width="310" height="180" rx="8" fill="#f3ece4" stroke="#7a5230"/>
-  <text x="398" y="104" class="s" style="font-weight:700;fill:#7a5230">Régimen: Derecho privado (civil/mercantil)</text>
-  <text x="398" y="128" class="s">• NO gozan de prerrogativas</text>
+  <text x="398" y="104" class="s" style="font-weight:700;fill:#7a5230">Régimen: derecho privado (art. 4)</text>
+  <text x="398" y="128" class="s">• Sin las prerrogativas del art. 2.2</text>
   <text x="398" y="150" class="s">• Clases: rendimientos del patrimonio;</text>
   <text x="408" y="168" class="s">herencias, legados y donaciones</text>
-  <text x="398" y="192" class="s">• Excluye dominio público y comunales</text>
-  <text x="398" y="216" class="s" style="font-weight:700;fill:#d13c3c">• PERO el cobro impagado también</text>
-  <text x="408" y="234" class="s" style="font-weight:700;fill:#d13c3c">va por apremio (art. 2.2)</text>
-  <text x="398" y="252" class="s" style="fill:#7a5230">art. 3 TRLHL</text>
+  <text x="398" y="192" class="s">• Nunca los de bienes de dominio público</text>
+  <text x="398" y="216" class="s" style="font-weight:700;fill:#d13c3c">• Efectividad: normas y procedimientos</text>
+  <text x="408" y="234" class="s" style="font-weight:700;fill:#d13c3c">del derecho privado (art. 4)</text>
+  <text x="398" y="252" class="s" style="fill:#7a5230">arts. 3 y 4 TRLHL</text>
   <rect x="120" y="278" width="480" height="56" rx="8" fill="#fff5e6" stroke="#e89822"/>
-  <text x="360" y="302" class="t" style="font-weight:700;fill:#b5740f">Diferencia decisiva: las PRERROGATIVAS de cobro</text>
-  <text x="360" y="322" class="s">el negocio privado no las tiene, pero su impago sí se apremia</text>
+  <text x="360" y="302" class="t" style="font-weight:700;fill:#b5740f">Diferencia: las PRERROGATIVAS de cobranza</text>
+  <text x="360" y="322" class="s" style="text-anchor:middle">público: prerrogativas (art. 2.2) · privado: derecho privado (art. 4)</text>
 </svg>
 ```
 
@@ -226,7 +226,7 @@
   <text x="590" y="164" class="d" style="fill:#d13c3c">NO a alguna</text>
   <rect x="70" y="168" width="260" height="92" rx="8" fill="#e8f5ee" stroke="#2d8659"/>
   <text x="200" y="194" class="t" style="font-weight:700;fill:#2d8659">PRECIO PÚBLICO</text>
-  <text x="200" y="216" class="s">no es tributo · art. 41</text>
+  <text x="200" y="216" class="s">no es tributo propio · art. 2.1</text>
   <text x="200" y="236" class="s">cuantía: MÍNIMO el coste (44)</text>
   <text x="200" y="254" class="s">lo fija el Pleno (delegable JGL)</text>
   <rect x="390" y="168" width="260" height="92" rx="8" fill="#fdeaea" stroke="#d13c3c"/>
@@ -236,7 +236,7 @@
   <text x="520" y="254" class="s">ordenanza fiscal del Pleno</text>
   <rect x="150" y="286" width="420" height="50" rx="8" fill="#fff5e6" stroke="#e89822"/>
   <text x="360" y="308" class="t" style="font-weight:700;fill:#b5740f">Regla espejo: precio público = suelo · tasa = techo</text>
-  <text x="360" y="327" class="s">ambos se cobran por apremio (son ingresos de derecho público)</text>
+  <text x="360" y="327" class="s">ambos son ingresos de derecho público (art. 2.2)</text>
 </svg>
 ```
 
@@ -268,7 +268,7 @@
   <rect x="40" y="176" width="300" height="76" rx="8" fill="#fdeaea" stroke="#d13c3c"/>
   <text x="190" y="200" class="t" style="font-weight:700;fill:#d13c3c">Base imponible — art. 31</text>
   <text x="190" y="222" class="s" style="font-weight:700">MÁXIMO el 90 % del coste soportado</text>
-  <text x="190" y="242" class="s">(coste total − subvenciones, art. 31.2)</text>
+  <text x="190" y="242" class="s">(coste total − subvenciones, art. 31.5)</text>
   <rect x="380" y="176" width="300" height="76" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
   <text x="530" y="200" class="t" style="font-weight:700">Módulos de reparto — art. 32</text>
   <text x="530" y="222" class="s">metros de fachada · superficie ·</text>
@@ -287,7 +287,7 @@
 **Propósito**: Fijar las dos condiciones, la naturaleza no tributaria y la regla de cuantía.
 
 ```svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 320" role="img" aria-label="El precio público exige solicitud voluntaria y concurrencia del sector privado, no tiene naturaleza tributaria, debe cubrir como mínimo el coste y lo fija el Pleno con posible delegación en la Junta de Gobierno Local">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 320" role="img" aria-label="El precio público procede cuando el servicio es de solicitud voluntaria y lo presta también el sector privado, no figura entre los tributos propios, debe cubrir como mínimo el coste y lo fija el Pleno con posible delegación">
   <style>
     .h{font:700 13px system-ui,sans-serif;fill:#fff;text-anchor:middle}
     .t{font:12px system-ui,sans-serif;fill:#1a1a1a;text-anchor:middle}
@@ -295,7 +295,7 @@
   </style>
   <rect x="220" y="16" width="280" height="48" rx="8" fill="#003d75"/>
   <text x="360" y="38" class="h">PRECIO PÚBLICO (arts. 41-47)</text>
-  <text x="360" y="55" class="h" style="font-weight:400;font-size:10.5px">NO tiene naturaleza tributaria (art. 41)</text>
+  <text x="360" y="55" class="h" style="font-weight:400;font-size:10.5px">NO es tributo propio (art. 2.1.b y e)</text>
   <rect x="60" y="86" width="280" height="66" rx="8" fill="#e8f5ee" stroke="#2d8659"/>
   <text x="200" y="110" class="t" style="font-weight:700">Condición 1</text>
   <text x="200" y="132" class="s">solicitud o recepción VOLUNTARIA</text>
@@ -389,7 +389,7 @@
   <text x="360" y="152" class="s">artística</text>
   <text x="360" y="180" class="s" style="font-weight:700">EXENTOS:</text>
   <text x="360" y="200" class="s">• personas físicas</text>
-  <text x="360" y="218" class="s">• 2 primeros años</text>
+  <text x="360" y="218" class="s">• 2 primeros períodos</text>
   <text x="360" y="236" class="s" style="font-weight:700">• cifra neg. &lt; 1.000.000 €</text>
   <text x="360" y="266" class="s" style="fill:#2d8659">art. 82</text>
   <rect x="480" y="70" width="220" height="226" rx="8" fill="#e8f5ee" stroke="#2d8659"/>
@@ -435,14 +435,14 @@
   <text x="360" y="162" class="s" style="font-weight:700;fill:#d13c3c">tras STC 182/2021 +</text>
   <text x="360" y="180" class="s" style="font-weight:700;fill:#d13c3c">RDL 26/2021:</text>
   <text x="360" y="200" class="s">sistema DUAL (objetivo/real)</text>
-  <text x="360" y="218" class="s">a elección del contribuyente</text>
+  <text x="360" y="218" class="s">a instancia del sujeto pasivo</text>
   <text x="360" y="238" class="s">no sujeción si no hay incremento</text>
   <text x="360" y="266" class="s" style="fill:#b5740f">art. 104.5 y 107</text>
   <rect x="480" y="70" width="220" height="226" rx="8" fill="#fff5e6" stroke="#e89822"/>
   <text x="590" y="96" class="t" style="font-weight:700;fill:#b5740f">Gastos Suntuarios</text>
   <text x="590" y="124" class="s">solo subsiste la modalidad</text>
   <text x="590" y="142" class="s" style="font-weight:700">de cotos de caza y pesca</text>
-  <text x="590" y="172" class="s">prácticamente en desuso</text>
+  <text x="590" y="172" class="s">«podrán continuar exigiendo»</text>
   <text x="590" y="204" class="s">base legal:</text>
   <text x="590" y="222" class="s" style="font-weight:700">Disposición Transitoria 6.ª</text>
   <text x="590" y="266" class="s" style="fill:#b5740f">DT 6.ª TRLHL</text>
@@ -513,7 +513,7 @@
   <text x="560" y="110" class="h">DERECHO PRIVADO</text>
   <rect x="430" y="132" width="260" height="50" rx="7" fill="#f3ece4" stroke="#7a5230"/>
   <text x="560" y="153" class="t" style="font-weight:700">Patrimonio · herencias</text>
-  <text x="560" y="171" class="s">no prerrogativas (pero apremio si impago)</text>
+  <text x="560" y="171" class="s">régimen de derecho privado (art. 4)</text>
   <rect x="40" y="132" width="150" height="50" rx="7" fill="#e8f5ee" stroke="#2d8659"/>
   <text x="115" y="153" class="t" style="font-weight:700">Tasas</text>
   <text x="115" y="171" class="s">coste = máx (24.2)</text>
@@ -538,12 +538,12 @@
   <text x="320" y="328" class="s">G. suntuarios (cotos)</text>
   <text x="320" y="350" class="s" style="fill:#b5740f">art. 59.2</text>
   <rect x="430" y="194" width="260" height="164" rx="7" fill="#fff5e6" stroke="#e89822"/>
-  <text x="560" y="218" class="t" style="font-weight:700;fill:#b5740f">Claves de examen</text>
+  <text x="560" y="218" class="t" style="font-weight:700;fill:#b5740f">Datos clave</text>
   <text x="560" y="244" class="s">tasa = techo · precio púb. = suelo</text>
-  <text x="560" y="266" class="s">precio público NO es tributo (41)</text>
+  <text x="560" y="266" class="s">precio público NO es tributo (2.1)</text>
   <text x="560" y="288" class="s">90 % = art. 31 · módulos = art. 32</text>
   <text x="560" y="310" class="s">CE: 137 · 140 · 142 (no 156)</text>
   <text x="560" y="332" class="s">Madrid: Ley 22/2006 (TEAM + ATM)</text>
-  <text x="560" y="352" class="s" style="fill:#b5740f">apremio para todo lo público</text>
+  <text x="560" y="352" class="s" style="fill:#b5740f">prerrogativas para lo público (2.2)</text>
 </svg>
 ```
